@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "petWa": "/pages/pet/wa/wa"
+  }
+}

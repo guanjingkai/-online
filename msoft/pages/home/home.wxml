@@ -1,0 +1,22 @@
+<!--pages/home/home.wxml-->
+<view class="container"  style='width:{{sWidth}}px;height:{{sHeight}}px'>
+<view class='clover'>
+    <image class='bg_clover' src='../../assets/img/ui/my_clover.png'></image>
+    <image class='recharge' src='../../assets/img/ui/recharge.png'></image>
+    <label class='clover_num'>99999</label>
+  </view>
+
+  <petWa petId='wa_xiao'></petWa>
+  <petWa petId='wa_jichou'></petWa>
+  <petWa petId='wa_kanshu'></petWa>
+  <petWa petId='wa_zhuang'></petWa>
+  <image class='btnMain btnYard' bindtap='goHome' src='../../assets/img/ui/btn_yard.png'></image>
+  <image class='btnMain btnShop' src='../../assets/img/ui/btn_shop.png'></image>
+  <image class='btnMain btnBag' src='../../assets/img/ui/btn_bag.png'></image>
+  <image class='btnMain btnLiwu' src='../../assets/img/ui/btn_liwu.png'></image>
+  <image class='btnMain btnHelp' src='../../assets/img/ui/btn_help.png'></image>
+  <image class='btnMain btnMake' style='width:168rpx;height:90rpx;' src='../../assets/img/ui/btn_make.png'></image>
+  <view class="main" style=''>
+    <image class='bg' src='http://p37vxs0ha.bkt.clouddn.com/image/bg_home.jpg'></image>
+  </view>
+</view>

@@ -1,0 +1,25 @@
+/**index.wxss**/
+.btnHouse{
+  bottom: 16rpx;
+  right: 16rpx;
+}
+.btnShop{
+  bottom: 136rpx;
+  right: 16rpx;
+}
+.btnMap{
+  bottom: 256rpx;
+  right: 16rpx;
+}
+.btnHelp{
+  top: 16rpx;
+  right: 256rpx;
+}
+.btnCollect{
+  top: 16rpx;
+  right: 136rpx;
+}
+.btnBag{
+  top: 16rpx;
+  right: 16rpx;
+}

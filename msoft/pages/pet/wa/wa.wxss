@@ -1,0 +1,8 @@
+/* pages/pet/wa.wxss */
+.pet_main{
+  z-index: 99999;
+  position: absolute;
+  overflow: hidden;
+  width: 100rpx;
+  height: 100rpx;
+}

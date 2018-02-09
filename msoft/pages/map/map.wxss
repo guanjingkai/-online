@@ -1,0 +1,17 @@
+/* pages/map/map.wxss */
+.controls{
+  position: absolute;
+  width: 104rpx;
+  height: 360rpx;
+  bottom: 0rpx;
+  right: 16rpx;
+}
+.btnHouse{
+  bottom: 16rpx;
+}
+.btnShop{
+  bottom: 136rpx;
+}
+.btnYard{
+  bottom: 256rpx;
+}

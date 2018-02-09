@@ -1,0 +1,4 @@
+<!--pages/pet/wa.wxml-->
+<view class="pet_main" style='width:{{petWidth}};height:{{petHeight}};top:{{pTop}};left:{{pLeft}};'>
+  <image src='{{petImage}}' style='width:{{petWidth}};height:{{petHeight}};'></image>
+</view>

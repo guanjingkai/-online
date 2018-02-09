@@ -1,0 +1,17 @@
+<!--pages/shop/shop.wxml-->
+<view class="container" style='background:#D6F5C2;'>
+  <view class='header'> 
+    <image class='header_bg' src='{{images.headerBg}}'></image>
+  </view>
+  <view class='table'>
+    <image class='table_bg' src='{{images.tableBg}}'></image>
+    <swiper>
+      <swiper-item>
+        
+      </swiper-item>
+    </swiper>
+  </view>
+  <view class='zhuan'>
+    <image class='zhuan_bg' src='{{images.zhuangBg}}'></image>
+  </view> 
+</view>

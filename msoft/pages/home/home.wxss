@@ -1,0 +1,25 @@
+/* pages/home/home.wxss */
+.btnYard{
+  bottom: 16rpx;
+  right: 16rpx;
+}
+.btnShop{
+  bottom: 136rpx;
+  right: 16rpx;
+}
+.btnHelp{
+  top: 16rpx;
+  right: 256rpx;
+}
+.btnLiwu{
+  top: 16rpx;
+  right: 136rpx;
+}
+.btnBag{
+  top: 16rpx;
+  right: 16rpx;
+}
+.btnMake{
+  bottom: 16rpx;
+  left: 16rpx;
+}
